@@ -11,7 +11,7 @@
 # Install
 1. clone
 ```
-$ git clone 
+$ git clone git@github.com:Ryota0312/desktop-cast.git
 ```
 
 2. install
