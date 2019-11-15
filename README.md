@@ -20,7 +20,7 @@ $ pipenv install
 
 or
 
-$ pip install -r reqiurements.txt 
+$ pip install -r requirements.txt 
 ```
 
 # Settings
