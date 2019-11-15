@@ -61,6 +61,7 @@ while(True):
     if input_line == "q":
         pyautogui.click(684, 97, 1, 1, 'left')
         pyautogui.click(357, 336, 1, 1, 'left')
+        time.sleep(1)
         cast_stop_point = CAST_STOP_POINT_BASE  + (CAST_LIST_OFFSET * cast_index)
         pyautogui.click(340, cast_stop_point, 1, 1, 'left')
         driver.quit()
