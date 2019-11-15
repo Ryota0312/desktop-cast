@@ -1,0 +1,2 @@
+CHROME_PROFILE_PATH: /path/to/chrome_profile_path
+CHROME_DRIVER_PATH: /path/to/chromedriver
