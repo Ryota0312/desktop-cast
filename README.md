@@ -30,7 +30,7 @@ $ pip install -r reqiurements.txt
 
 # Cast your desktop
 ```
-$ pipenv run python main.py DEVICE_NAME
+$ pipenv run cast DEVICE_NAME
 
 or
 

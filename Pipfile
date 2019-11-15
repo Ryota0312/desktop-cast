@@ -13,3 +13,6 @@ pyyaml = "*"
 
 [requires]
 python_version = "3.6"
+
+[scripts]
+cast = "python main.py"
